@@ -1,10 +1,13 @@
-© YMCY7, July 2023
+© Copyright YMCY7, July 2023
 
------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
-This File consists of two folders; Data & Code
+This GitHub Repository only contains the code.
 
------------------------------------------------------
+Data can be found through the following link:
+https://drive.google.com/drive/folders/1d6i2IMLlR8azfA8istorH0AwMzjtANzr?usp=sharing
+
+------------------------------------------------------------------------------------------------------------------
 
 The data folder consists of 17 .csv files:
 
@@ -20,7 +23,7 @@ Data_Preprocessed_SubGroup_Selected7.csv -> contains data for selected 7 classif
 
 The rest follows the same formatting
 
-----------------------------------------------------
+------------------------------------------------------------------------------------------------------------------
 
 The Code Files consists of 9 .ipynb files:
 
@@ -42,6 +45,6 @@ Finetuning.ipynb -> Experiments with different configurations to determine the o
 
 Prediction.ipynb -> Uses the optimal model to predict a unseen patent classification code.
 
+------------------------------------------------------------------------------------------------------------------
 
-----------------------------------------------------
-© YMCY7, July 2023
+© Copyright, July 2023
