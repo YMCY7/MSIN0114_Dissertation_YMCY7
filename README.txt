@@ -47,4 +47,4 @@ Prediction.ipynb -> Uses the optimal model to predict a unseen patent classifica
 
 ------------------------------------------------------------------------------------------------------------------
 
-© Copyright, July 2023
+© Copyright YMCY7, July 2023
